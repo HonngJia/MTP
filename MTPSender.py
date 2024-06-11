@@ -1,8 +1,5 @@
-## The code provided here is just a skeleton that can help you get started
-## You can add/remove functions as you wish
 
-
-## import (add more as you need)
+## import
 import threading
 import unreliable_channel
 import zlib
